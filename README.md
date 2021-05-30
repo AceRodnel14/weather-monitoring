@@ -15,14 +15,14 @@ Instructions:
 1. Clone the repository and go to that directory.
    > git clone https://github.com/AceRodnel14/weather-monitoring.git
    > cd weather-monitoring
-2. Edit [weather-probe.ino](./src/weather-probe.ino). Change the following things:
+2. Edit [weather-probe.ino](./src/weather-probe/weather-probe.ino). Change the following things:
    - ssid (Line 9)
    - password (Line 10)
    - host_IP (Line 15)
    - subnet (Line 16)
    - gateway (Line 17)
    - host_name (Line 21) //optional
-3. Copy [weather-probe.ino](./src/weather-probe.ino) and use Arduino IDE to upload the program to NodeMcu.
+3. Copy [weather-probe.ino](./src/weather-probe/weather-probe.ino) and use Arduino IDE to upload the program to NodeMcu.
 4. Clone the repository in the machine that has Docker and go to inside the directory.
    > git clone https://github.com/AceRodnel14/weather-monitoring.git
    > cd weather-monitoring
