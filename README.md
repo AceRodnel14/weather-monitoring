@@ -36,7 +36,7 @@ Instructions:
     > user: admin
     > password: alphabeta (or the password you set)
 11. After logging in, you can access the dashboard via the link below:
-    **\<IP address of machine with Docker\>:3000/d/OTlMuCmgk/weather-monitoring**
+   ###### \<IP address of machine with Docker\>:3000/d/OTlMuCmgk/weather-monitoring
 ![grafana-dashboard](./images/grafana-dashboard.png "Grafana Dashboard")
 
 **Topology**
